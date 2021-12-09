@@ -12,7 +12,7 @@ load("SNOHOMISH.RData")
 # Examine data set
 View(SNOHOMISH)
 
-# Set n to legth of data set
+# Set n to length of data set
 n <- length(SNOHOMISH$date)
 
 # Initialize new variable in data frame
